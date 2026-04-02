@@ -52,7 +52,7 @@ easycrypt/
 
 | Generate Tab | Saved Tab | Detail Popup |
 | :---: | :---: | :---: |
-| ![Generate](https://via.placeholder.com/200x400?text=Generate+UI) | ![Saved](https://via.placeholder.com/200x400?text=Saved+UI) | ![Detail](https://via.placeholder.com/200x400?text=Sleek+Popup) |
+| ![Generate](/password_generator.jpeg) | ![Saved](/saved_interface.jpeg) | ![Detail](/popup.jpeg) |
 
 ---
 
