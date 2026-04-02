@@ -47,31 +47,6 @@ easycrypt/
 └── README.md                              # You are here!
 ```
 
----
-
-## 🚀 GitHub Upload Guide
-
-When sharing your project on GitHub, it is crucial to upload only the necessary source files and avoid build artifacts or sensitive keys.
-
-### ✅ Files to UPLOAD (Include these):
-*   `app/src/` (All your code and resources)
-*   `app/build.gradle.kts`
-*   `build.gradle.kts` (Root level)
-*   `settings.gradle.kts`
-*   `gradle/` folder (Includes `libs.versions.toml`)
-*   `gradlew`, `gradlew.bat`
-*   `.gitignore`
-*   `README.md`
-
-### ❌ Files to AVOID (Do NOT upload these):
-*   `**/build/` folders (The compiled output)
-*   `.gradle/` (Local gradle cache)
-*   `local.properties` (Contains your local SDK path)
-*   `*.jks` or `*.keystore` files ( **CRITICAL:** These are your private signing keys!)
-*   `.idea/` (Android Studio specific user settings)
-*   `*.apk` or `*.aab` (Binaries should be in "Releases", not the source tree)
-
----
 
 ## 📱 Screenshots
 
